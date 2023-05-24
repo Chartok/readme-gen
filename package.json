@@ -1,0 +1,16 @@
+{
+  "name": "readmegen",
+  "version": "1.0.0",
+  "description": "professional cli readme generator",
+  "main": "index.js",
+  "keywords": [
+    "readme",
+    "generator",
+    "inquirer"
+  ],
+  "author": "mohammedAsadbhimjee",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
