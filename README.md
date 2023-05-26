@@ -1,9 +1,9 @@
 
-  # readme-gen
+  # Quiz: Know your codes
 
   ## Description
 
-  Generate a detailed and professional README file for your projects!
+  Do you consider yourself a programmer? Then take this beginner level quiz to see if you know your stuff!
 
   ## Table of Contents
 
@@ -16,15 +16,15 @@
 
   ## Installation
 
-  Download the repo anywhere your text editor can find it
+  No installation necessary. 
 
   ## Usage
 
-  To use open the root directory of readme-gen and open  terminal . ( Make sure you are in the root directory of readme-gen! )
+  Open in your web browser and take the quiz!
 
   ## Contributing
 
-  To contribute message me on GitHub (link below)
+  Contact me on GitHub
 
   ## Tests
 
@@ -38,10 +38,10 @@
 
   ## Questions
 
-  If you have any questions, please contact me at m.bhimjee@outlook.com.
+  If you have any questions, please contact me at .
   You can also find me on GitHub at Chartok.
 
   ## Credits
 
-  Mohammed Asad Bhimjee/Chartok
+  Mohammed Bhimjee
   
